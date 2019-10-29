@@ -1,0 +1,6 @@
+#n nodejs
+/node_modules
+
+#project
+dist/
+env.js
